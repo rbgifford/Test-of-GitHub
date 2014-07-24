@@ -3,3 +3,7 @@ test of github
 ----begin new stuff-----
 123
 ----end new stuff-----
+
+----begin update-----
+456 - new feature
+----end update----
